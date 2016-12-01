@@ -6,7 +6,7 @@ We identify and implement a set of curation APIs and make them available (as an 
 
 
 Notice: We encourage researchers/developers to cite our paper if you have used our APIs, libraries, tools or datasets. You can find the technical report and user guide from the following link:
-
+ftp://ftp.cse.unsw.edu.au/pub/doc/papers/UNSW/201617.pdf
 
 
 
